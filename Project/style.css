@@ -1,0 +1,24 @@
+h1,h2{
+    text-align: center;
+}
+.index-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.login-container{
+    display:block;
+    width:50%;
+    background-color: #dedede;
+    border: 1px solid #a7a7a7;
+    padding:1rem;
+    border-radius: 5px;
+  
+}
+
+header{
+    display:flex;
+    justify-content: space-around;
+}
